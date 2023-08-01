@@ -3,6 +3,7 @@
 - Class Date: Jan 16 - 18, 2023
 - Facilitator: @Erick and Rob
 
+
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
